@@ -1,0 +1,26 @@
+{
+  "name": "obtuse-giggle",
+  "version": "0.0.0",
+  "description": "simple graphql + mongodb example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkendall/obtuse-giggle.git"
+  },
+  "author": "Bryan Kendall <bryan@bryankendall.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bkendall/obtuse-giggle/issues"
+  },
+  "homepage": "https://github.com/bkendall/obtuse-giggle#readme",
+  "dependencies": {
+    "@risingstack/graffiti-mongoose": "^2.0.0",
+    "express": "^4.13.3",
+    "express-graphql": "^0.4.0",
+    "graphql": "^0.4.7",
+    "mongoose": "^4.1.9"
+  }
+}
